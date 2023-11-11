@@ -102,6 +102,7 @@
     "title": "Подтверждение удаления",
     "warningMessage": "Вы уверены, что хотите удалить",
     "remove": "Удалить"
+    "removeWithData": "Удалить вместе с файлами"
   },
   "filesListDialog": {
     "title": "Файлы",
